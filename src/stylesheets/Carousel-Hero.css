@@ -1,0 +1,35 @@
+div.jumbotron.carousel-hero {
+    color:#fff;
+    text-align:center;
+    background-size:cover;
+    background-position:center;
+    padding-top:100px;
+    padding-bottom:100px;
+    margin-bottom:0;
+  }
+  
+  div.jumbotron.hero-nature {
+    background-image:url('http://kb4images.com/images/school-images/36664282-school-images.jpg');
+  }
+  
+  div.jumbotron.hero-photography {
+    background-image:url('https://www.sd61.bc.ca/wp-content/uploads/sites/91/2018/02/Keri_Coles_Photography_SchoolBoard-055-1200x512.jpg');
+  }
+  
+  div.jumbotron.hero-technology {
+    background-image:url('https://upload.wikimedia.org/wikipedia/commons/3/3b/Heiwa_elementary_school_18.jpg');
+  }
+  
+  h1.hero-title, h2.hero-title, h3.hero-title {
+    text-shadow:0 3px 3px rgba(0,0,0,0.4);
+    color:#fff;
+  }
+  
+  p.hero-subtitle {
+    max-width:600px;
+    margin:25px auto;
+    padding:10px 15px;
+    color:#fff;
+  }
+  
+  
