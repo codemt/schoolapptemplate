@@ -43,18 +43,18 @@ import '../../node_modules/bootstrap/dist/js/bootstrap.min.js';
               </NavItem>
               <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle nav caret>
-                  Options
+                  Sections
                 </DropdownToggle>
                 <DropdownMenu right>
                   <DropdownItem>
-                    Option 1
+                    Primary
                   </DropdownItem>
                   <DropdownItem>
-                    Option 2
+                    Secondary
                   </DropdownItem>
-                  <DropdownItem divider />
+                  <DropdownItem />
                   <DropdownItem>
-                    Reset
+                    Pre-Primary
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
